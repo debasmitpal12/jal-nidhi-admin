@@ -10,7 +10,7 @@ import Dashboard from "./components/Dashboard";
 import DashboardHome from "./components/DashboardHome";
 import OngoingProjects from "./components/OngoingProjects";
 import MRVReview from "./components/MRVReview";
-import Marketplace from "./components/MarketPlace";
+import MarketPlace from "./components/MarketPlace";
 import CreditManagement from "./components/CreditManagement";
 import AIVerification from "./components/AIVerification";
 import Profile from "./components/Profile"; 
